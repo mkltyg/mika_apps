@@ -22,8 +22,8 @@
                 <h3 class="mb-5">Sign in</h3>
                 
                 <div class="form-outline mb-4">
-                  <input type="email" id="typeEmailX-2" name ="reg_email" class="form-control form-control-lg" />
-                  <label class="form-label" for="typeEmailX-2">Email</label>
+                  <input type="email" id="typeEmailX-2" name ="reg_full_name" class="form-control form-control-lg" />
+                  <label class="form-label" for="typeEmailX-2">Full Name</label>
                 </div>
                 
                 <div class="form-outline mb-4">

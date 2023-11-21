@@ -11,27 +11,32 @@
 <body>
     @include('components/navbar')
     <header>
-        <h1 class="Logo">"Miks"</h1>
         <nav>
             <a href="#" class="active">Home</a>
-            <a href="#">About</a>
-            <a href="#">Contact Me</a>
+            <a href="aboutme.html">About Me</a>
+            <a href="#">Contact</a>
         </nav>
     </header>
     <div class="text-box">
         <h1> Hi! I'm Mikaela Tayag</h1>
         <h1>
-            <span class="skills"></span>
+            <span class="info"></span>
         </h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p>Welcome to My Personal Space!
+
+        Hello there! This space is dedicated to sharing a bit more about who I am, my interests, and the things that make me unique. 
+        Feel free to explore and get to know me a little better. 
+        </p>
     <div class="icon-box">
         <i class='bx bxl-facebook'></i>
         <i class='bx bxl-instagram'></i>
+        <i class='bx bxl-twitter'></i>
     </div>
     <div class="img-box">
         <img src="" draggable="false" alt="">
     </div>
     <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
     <script src="script.js"></script>
-    </body>
+    
+</body>
 </html>
